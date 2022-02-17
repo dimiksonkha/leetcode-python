@@ -1,4 +1,4 @@
-# Leetcode solution with Python
+# Leetcode solutions with Python
 Problem solving with data structure and algorithm using python on Leetcode platform.
 ## Topics
 - Array
