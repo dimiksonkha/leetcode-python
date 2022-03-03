@@ -3,6 +3,7 @@ Problem solving with data structure and algorithm using python on Leetcode platf
 ## Topics
 - Array
 - LinkedList
+- Tree
 - Binary Search
 - Dynamic Programming
 - Math
